@@ -47,8 +47,8 @@ proyecto-gui/
 
 ## Autor
 
-Ronald Cruz Chino
-Danilson Davis Machaca Flores 
-Daniel Wilfredo Pomarez Huaranca
+Ronald Cruz Chino,
+Danilson Davis Machaca Flores, 
+Daniel Wilfredo Pomarez Huaranca,
 Jhilmar Luna Gisbert
 
